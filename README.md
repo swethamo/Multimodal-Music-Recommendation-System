@@ -7,3 +7,5 @@ A large-scale multimodal benchmark was constructed by combining listening sessio
 Experimental results show that multimodal enrichment consistently improves recommendation performance over traditional ID-based approaches, with lyric-based semantic representations providing the strongest gains. The study also highlights that naïve multimodal fusion is often insufficient, emphasizing the importance of effective cross-modal alignment for future recommendation systems. 
 
 Dataset published: https://zenodo.org/records/20431748
+
+Paper: https://arxiv.org/abs/2606.00125
